@@ -1,0 +1,22 @@
+/* first.css*/
+. {
+	margin: 0;
+	padding: 0;
+}
+
+.title{
+	text-align: center;
+}
+
+.relatorio{
+	border: 1px solid #000;
+	min-height: 910px;
+}
+
+.header_report{
+	background: silver;
+}
+
+th{
+	background: #777;	
+}
