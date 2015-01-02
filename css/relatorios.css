@@ -5,9 +5,18 @@
 }
 
 .title{
-	text-align: center;
+    margin-top: 35px;
+    font-size: 3.2em;
+    font-weight:bold;
 }
 
+.center {
+    text-align: center;
+}
+
+h2{
+    font-size: 1.3em;
+}
 .relatorio{
 	border: 1px solid #000;
 	min-height: 910px;
@@ -19,4 +28,8 @@
 
 th{
 	background: #777;	
+}
+
+#logo {
+    margin-top:20px;
 }
